@@ -1,6 +1,6 @@
 # URL Shortener / Shorten URL
 #### Video Demo: [URL HERE](https://youtu.be/NsL42Eil_wc)
-#### Description: Shorten the current opening URL in the browser using the extension and view the logs for shortened URLs in dashboard
+#### Description: The key features of the project are: (1) Shorten the Current URL: Open your web browser and navigate to the page you want to shorten the URL. To Use the URL shortener extension installed in your browser, click on the extension's icon in the toolbar and get the shortened URL. (2) View Logs for Shortened URLs: After shortening the URL, you can view a log of all URLs you've shortened. This can accessible through the dashboard. After opening the dashboard, you can see a list of your shortened URLs with details such as the original URLs, the short URL key and how many times it gets visited.
 
 ## Browser Extension
 
