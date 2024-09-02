@@ -1,5 +1,5 @@
 # URL Shortener / Shorten URL
-#### Video Demo: [URL HERE](https://github.com/thantthuhein)
+#### Video Demo: [URL HERE](https://youtu.be/NsL42Eil_wc)
 #### Description: Shorten the current opening URL in the browser using the extension and view the logs for shortened URLs in dashboard
 
 ## Browser Extension
